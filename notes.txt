@@ -1,0 +1,27 @@
+Create a React App
+This process is really straightforward.
+
+I will be using Facebook’s create-react-app tocreate a react app named client:
+
+#Used npm’s npx to create a react app and named it client.
+npx create-react-app client
+#cd(change directory) into the new client directory
+cd client
+#Started The App
+npm start
+#To make sure its good so far navigate to http://localhost:3000/ should see react home page 
+
+Create an Express App
+
+npx express-generator api
+cd api
+npm install
+npm start
+
+#Used npm’s npx to install express-generator globally.
+#Used express-generator to create an express app and named it api.
+#cd into the API directory.
+#Installed all dependencies.
+#Started the app.
+#Check at 3000 should see express welcome page
+
